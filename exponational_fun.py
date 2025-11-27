@@ -14,8 +14,6 @@ print(optimized_power(a, b))
 
 
 
-
-
 def power(base,exp):
     if(exp<0):
         base=1/base
